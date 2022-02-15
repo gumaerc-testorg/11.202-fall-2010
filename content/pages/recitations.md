@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Math Review
 uid: 5434cafa-77d8-f524-cbd5-94e9aaf797fa
 ---
