@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Math Review
 parent_type: CourseSection
+parent_uid: 5434cafa-77d8-f524-cbd5-94e9aaf797fa
 resourcetype: Document
 title: MIT11_202F10_rec4sol.pdf
 uid: 18dd777f-ff9d-4496-a0b5-03c5272439bc

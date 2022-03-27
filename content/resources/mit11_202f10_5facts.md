@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 51d9eb00-6c1a-9c5c-9886-1229abd560de
 resourcetype: Document
 title: MIT11_202F10_5facts.pdf
 uid: 0a5884e9-505f-a195-75f6-32c12b791cc4

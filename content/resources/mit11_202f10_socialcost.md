@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 51d9eb00-6c1a-9c5c-9886-1229abd560de
 resourcetype: Document
 title: MIT11_202F10_socialcost.pdf
 uid: b38cb92e-faed-887a-24ee-a747b2938917

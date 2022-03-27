@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b9a589e1-5983-4bc4-c43b-fdf3d0da1b45
 resourcetype: Document
 title: MIT11_202F10_finalexam.pdf
 uid: 647a0ea6-1445-0cb1-4067-203ee42a5dc3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b9a589e1-5983-4bc4-c43b-fdf3d0da1b45
 resourcetype: Document
 title: MIT11_202F10_morereview.pdf
 uid: cbe2ef24-f5b0-b508-209e-39898e7b06a0

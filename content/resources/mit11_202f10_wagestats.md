@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 8b116822-99af-5f06-1079-f4676885aac1
 resourcetype: Document
 title: MIT11_202F10_wagestats.pdf
 uid: a2f043ff-b3cc-a80a-e398-2314b7edf521
