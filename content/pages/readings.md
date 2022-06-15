@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic and information
+  on the course textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -73,13 +75,13 @@ Estimating the cost of global warming, Michael Greenstone, 3M Professor of Envir
 {{< tdopen >}}
 
 
-Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Could Affect Employment." May 5, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cbo.gov/ftpdocs/105xx/doc10564/05-05-CapAndTrade_Brief.pdf))
+Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Could Affect Employment." May 5, 2010. ([PDF](http://www.cbo.gov/ftpdocs/105xx/doc10564/05-05-CapAndTrade_Brief.pdf))
 
 [Econ 101: Carbon Tax vs. Cap-and-Trade](http://www.env-econ.net/carbon_tax_vs_capandtrade.html). Environmental Economics: Economists on Environmental and Natural Resources.
 
-**Slides**: Michael Greenstone- "5 Facts about Climate Change: Cause for a Shift in Policy?" ([PDF]({{< baseurl >}}/resources/mit11_202f10_5facts))
+**Slides**: Michael Greenstone- "5 Facts about Climate Change: Cause for a Shift in Policy?" ({{% resource_link 0a5884e9-505f-a195-75f6-32c12b791cc4 "PDF" %}})
 
-**Slides**: Michael Geenstone- "The Social Cost of Carbon, Cost-Benefit Analysis, and Rational Climate Policy." ([PDF - 1.1MB]({{< baseurl >}}/resources/mit11_202f10_socialcost))
+**Slides**: Michael Geenstone- "The Social Cost of Carbon, Cost-Benefit Analysis, and Rational Climate Policy." ({{% resource_link b38cb92e-faed-887a-24ee-a747b2938917 "PDF - 1.1MB" %}})
 
 (The slides above were courteys of Michael Greenstone. Used with permission).
 
@@ -155,7 +157,7 @@ Location, economic development, and the canonical urban problem, cont.
 
 Glaeser, Edward L., and Matthew E. Kahn. "[The Greenness of Cities: Carbon Dioxide Emissions and Urban Development](http://www.nber.org/papers/w14238)." NBER Working Paper No. 14238. August 2008.
 
-Glaeser, Edward L., and Albert Saiz. "The Rise of the Skilled City." NBER Working Paper No. 10191. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nber.org/papers/w10191.pdf))
+Glaeser, Edward L., and Albert Saiz. "The Rise of the Skilled City." NBER Working Paper No. 10191. ([PDF](http://www.nber.org/papers/w10191.pdf))
 
 
 {{< tdclose >}}
