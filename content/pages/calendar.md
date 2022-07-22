@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and guest
+  lectures for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: fbdf54fb-81d6-1f65-b6bd-847139bd964c
 ---
