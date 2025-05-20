@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   marginal cost of abatement.
-file: /ol-ocw-studio-app/courses/11-202-planning-economics-fall-2010/857563430263d245b5163883b6564415_MIT11_202F10_pset2sol.pdf
+file: /courses/11-202-planning-economics-fall-2010/857563430263d245b5163883b6564415_MIT11_202F10_pset2sol.pdf
 file_size: 97983
 file_type: application/pdf
 learning_resource_types:

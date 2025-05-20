@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to economic behavior.
-file: /ol-ocw-studio-app/courses/11-202-planning-economics-fall-2010/20990e501ef27e35d1e7d3b73d5f9bca_MIT11_202F10_pracprob.pdf
+file: /courses/11-202-planning-economics-fall-2010/20990e501ef27e35d1e7d3b73d5f9bca_MIT11_202F10_pracprob.pdf
 file_size: 48539
 file_type: application/pdf
 learning_resource_types:

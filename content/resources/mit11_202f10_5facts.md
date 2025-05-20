@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to greenhouse gamble.
-file: /ol-ocw-studio-app/courses/11-202-planning-economics-fall-2010/0a5884e9505fa19575f632c12b791cc4_MIT11_202F10_5facts.pdf
+file: /courses/11-202-planning-economics-fall-2010/0a5884e9505fa19575f632c12b791cc4_MIT11_202F10_5facts.pdf
 file_size: 493291
 file_type: application/pdf
 learning_resource_types:

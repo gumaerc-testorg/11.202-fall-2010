@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to final exam review topics.
-file: /ol-ocw-studio-app/courses/11-202-planning-economics-fall-2010/18dd777fff9d4496a0b503c5272439bc_MIT11_202F10_rec4sol.pdf
+file: /courses/11-202-planning-economics-fall-2010/18dd777fff9d4496a0b503c5272439bc_MIT11_202F10_rec4sol.pdf
 file_size: 76109
 file_type: application/pdf
 learning_resource_types: []
