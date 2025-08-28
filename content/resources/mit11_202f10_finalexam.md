@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to demand curve and internal
   rate of return.
-file: /courses/11-202-planning-economics-fall-2010/647a0ea614450cb14067203ee42a5dc3_MIT11_202F10_finalexam.pdf
+file: /ol-ocw-studio-app/courses/11-202-planning-economics-fall-2010/647a0ea614450cb14067203ee42a5dc3_MIT11_202F10_finalexam.pdf
 file_size: 79363
 file_type: application/pdf
 learning_resource_types:
