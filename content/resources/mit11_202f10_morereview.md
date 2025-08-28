@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to congestion externality.
-file: /courses/11-202-planning-economics-fall-2010/cbe2ef24f5b0b508209e39898e7b06a0_MIT11_202F10_morereview.pdf
+file: /ol-ocw-studio-app/courses/11-202-planning-economics-fall-2010/cbe2ef24f5b0b508209e39898e7b06a0_MIT11_202F10_morereview.pdf
 file_size: 59628
 file_type: application/pdf
 learning_resource_types:
